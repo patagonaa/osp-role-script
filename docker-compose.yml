@@ -9,4 +9,4 @@ services:
       - SQL_USER=osp
       - SQL_PASS=internalanywayDSfagWgmUUnF
       - SQL_DB=osp
-      - SQL_DB=db
+      - SQL_HOST=db

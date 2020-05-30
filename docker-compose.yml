@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  role-script:
+    restart: unless-stopped
+    image: role_script
+    build: ./role_script
